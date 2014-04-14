@@ -1,0 +1,7 @@
+#folder
+Setup1
+SharpZipLib
+SwfDotNet.IO
+
+#sln
+*.sln
